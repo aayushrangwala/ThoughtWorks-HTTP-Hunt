@@ -21,3 +21,8 @@ So how should you start playing?
 Hit an endpoint GET https://<host-link>/challenge which would give you further instructions.
 
 Conclusion: Need to make RAPI consumer app which will hit the GET calls for questions and input and POST the JSON as Output
+
+
+How to Use:
+
+Just import the project in Eclipse, replace the actual credentials (UserID and host IP) with the placeholders and RUN!!!
