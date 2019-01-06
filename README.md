@@ -25,4 +25,4 @@ Conclusion: Need to make RAPI consumer app which will hit the GET calls for ques
 
 How to Use:
 
-Just import the project in Eclipse, replace the actual credentials (UserID and host IP) with the placeholders and RUN!!!
+Just import the project in Eclipse, replace the placeholders with the actual credentials (UserID and host IP) and RUN!!!
