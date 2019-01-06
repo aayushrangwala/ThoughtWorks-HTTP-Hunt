@@ -12,7 +12,7 @@ Few important guidelines:
 
 2. For every POST API call, you need to pass "content-type" as "application/json" as well.
 
-3. For every API call, use the host as https://http-hunt.thoughtworks-labs.net ( https://<host-link>/ )
+3. For every API call, use the host as https://<host-link>/
 
  
 
