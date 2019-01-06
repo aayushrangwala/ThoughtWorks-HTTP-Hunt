@@ -34,6 +34,10 @@
 	<classpathentry kind="lib" path="lib/persistence-api-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/validation-api-1.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="lib/yasson-1.0.jar"/>
-	<classpathentry kind="lib" path="/home/ayush/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="lib/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/Downloads/JACKSON_JARS/jackson-annotations-2.9.8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/Downloads/JACKSON_JARS/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/Downloads/JACKSON_JARS/jackson-databind-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/ayush/Downloads/DEFAULT_JSON_JARS/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
