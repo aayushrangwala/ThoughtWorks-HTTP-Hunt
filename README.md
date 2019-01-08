@@ -8,7 +8,7 @@ The whole game is driven by HTTP REST APIs. You can read about REST at https://e
 
 Few important guidelines:
 
-1. For every API call, pass your UserID as an HTTP header with key "userId". Your userId is "<xyz123>". If you don't do this step, you will receive an "Invalid user!” error.
+1. For every API call, pass your UserID as an HTTP header with key "userId". Your userId is "xyz123". If you don't do this step, you will receive an "Invalid user!” error.
 
 2. For every POST API call, you need to pass "content-type" as "application/json" as well.
 
