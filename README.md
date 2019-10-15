@@ -26,3 +26,5 @@ Conclusion: Need to make RAPI consumer app which will hit the GET calls for ques
 How to Use:
 
 Just import the project in Eclipse, replace the placeholders with the actual credentials (UserID and host IP) and RUN!!!
+
+## PS: The code is not working, have to leave it in the middle due to time issues. But you can get the idea how to approach the game and also the actual logical functions whcih solves each stage should be working properly
